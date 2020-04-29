@@ -39,7 +39,7 @@ blockquote::before{
 }
 
 main{
-  color: #222;
+  color: blue;
   width: 55%;
   margin: 40px auto 0px;
 }
@@ -52,7 +52,6 @@ p, ul {
 
 p{
   margin-top: 20px;
-  color: blue;
 }
 
 h2 {
