@@ -39,7 +39,7 @@ blockquote::before{
 }
 
 main{
-  color: blue;
+  color: #222;
   width: 55%;
   margin: 40px auto 0px;
 }
